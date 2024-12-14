@@ -1,10 +1,10 @@
-# model experimentation
+# Airfare Predictions Part 1: Modelling
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+![pexels-brett-sayles-3226808](https://github.com/user-attachments/assets/276fdd8d-f421-4fc7-9151-5412557198ac)
 
 ## 1. Executive Summary
 
